@@ -1,7 +1,7 @@
 # Car-Sales-Management
 ##Introduction
 
-It is a Data File Handling project I made in High School. It is written in C++. The Car Sales Management System tracks entries and gives the users some management functionalities using data file handling in C++.
+It is a Data File Handling project. It is written in C++. The Car Sales Management System tracks entries and gives the users some management functionalities using data file handling in C++.
 
 ##Working
 
